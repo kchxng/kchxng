@@ -32,9 +32,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,mui,html,css,vscode,androidstudio,eclipse,sublime,powershell,github,figma,postman,tailwind,git,electron" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,golang,nestjs,dotnet,javascript,typescript,express,spring,flutter,dart,firebase,c,cpp,java,react,redux,nextjs,nuxtjs,fastapi" />
-    <img src="https://skillicons.dev/icons?i=linux,npm,yarn,vite,sequelize,mongodb,ubuntu,debian,sqlite,postgresql,mysql,redis,aws,heroku,cloudflare,docker,kafka,rabbitmq,cmake,prometheus,grafana,nginx" />
+    <img src="https://skillicons.dev/icons?i=mui,html,css,vuetify,vscode,androidstudio,eclipse,sublime,powershell,github,figma,postman,tailwind,git,electron" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,golang,nestjs,dotnet,javascript,typescript,express,spring,maven,hibernate,flutter,dart,firebase,c,cpp,java,react,redux,nextjs,nuxtjs,fastapi" />
+    <img src="https://skillicons.dev/icons?i=linux,npm,yarn,vite,sequelize,mongodb,ubuntu,debian,sqlite,postgresql,mysql,redis,aws,heroku,vercel,cloudflare,docker,kubernetes,kafka,rabbitmq,cmake,prometheus,grafana,nginx" />
     <br>
 </div>
 
