@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a Capital Markets**
  
  🌱 I’m currently learning **Blockchain, Asure, DevSecOps**
 
