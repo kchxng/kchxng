@@ -8,7 +8,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Kubernates, Asure, DevSecOps**
+ 🌱 I’m currently learning **Blockchain, Asure, DevSecOps**
 
 💬 Ask me about **Node.js, Golang, Python, Spring Boot, ReactJS, Docker, Firebase... or anything [here](https://github.com/kchxng/kchxng/issues)**
 
