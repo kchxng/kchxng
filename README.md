@@ -28,6 +28,28 @@
 </div>
 
  <hr/>
+
+## Profile Views
+
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/kchxng"> <img src="https://komarev.com/ghpvc/?username=kchxng&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
