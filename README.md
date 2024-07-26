@@ -28,35 +28,13 @@
 </div>
 
  <hr/>
-
-## Profile Views
-
-  <table>
-    <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
-        </b>
-      </td> -->
-      <!-- Profile Views -->
-      <td>
-         <a href="https://github.com/kchxng"> <img src="https://komarev.com/ghpvc/?username=kchxng&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
-  </table>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mui,html,css,vuetify,vscode,androidstudio,eclipse,sublime,powershell,github,figma,postman,tailwind,git,electron" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,golang,nestjs,dotnet,javascript,typescript,express,spring,maven,hibernate,flutter,dart,firebase,c,cpp,java,react,redux,nextjs,nuxtjs,fastapi" />
-    <img src="https://skillicons.dev/icons?i=linux,npm,yarn,vite,sequelize,mongodb,ubuntu,debian,sqlite,postgresql,mysql,redis,aws,heroku,vercel,cloudflare,docker,kubernetes,kafka,rabbitmq,cmake,prometheus,grafana,nginx" />
+    <img src="https://skillicons.dev/icons?i=mui,html,css,vuetify,vscode,androidstudio,eclipse,github,figma,tailwind,git,electron" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,golang,nestjs,dotnet,javascript,typescript,express,spring,flutter,dart,firebase,c,cpp,java,react,redux,nextjs,nuxtjs,fastapi" />
+    <img src="https://skillicons.dev/icons?i=linux,sequelize,mongodb,ubuntu,debian,sqlite,postgresql,mysql,redis,aws,vercel,cloudflare,docker,kubernetes,kafka,rabbitmq,cmake,prometheus,grafana,nginx" />
     <br>
 </div>
 
