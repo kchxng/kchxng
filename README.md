@@ -21,8 +21,8 @@
   <a href="https://linkedin.com/in/cheng-xng-5908b6313" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/kchxng?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kchxng?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+  <!-- <a href="https://github.com/kchxng?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kchxng?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a> -->
      <a href="https://www.youtube.com/@h-techdev2297/videos"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
    <!--
   <a href="https://salesp07.github.io" target="_blank">
