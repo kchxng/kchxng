@@ -24,6 +24,7 @@
   <!-- <a href="https://github.com/kchxng?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kchxng?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a> -->
      <a href="https://www.youtube.com/@chengcoding"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+     <a href="https://www.facebook.com/profile.php?id=100083416625288"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
    <!--
   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
