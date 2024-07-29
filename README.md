@@ -15,6 +15,9 @@
  </div>
 
  <div align="center"> 
+  <a href="https://line.me/ti/p/~chng1689k" target="_blank">
+    <img src="https://img.shields.io/badge/-Line-Y83?style=for-the-badge&logo=line&logoColor=white" target="_blank" />
+  </a>
   <a href="https://linkedin.com/in/cheng-xng-5908b6313" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
