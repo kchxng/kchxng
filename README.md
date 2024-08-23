@@ -7,7 +7,7 @@
  
  🔭 I’m currently working on **a Capital Markets**
  
- 🌱 I’m currently learning **Blockchain, DevSecOps, etc.**
+ 🌱 I’m currently learning **Blockchain, etc.**
 
 💬 Ask me about **Node.js, Golang, Python, Spring Boot, ReactJS, Docker, Firebase... or anything [here](https://github.com/kchxng/kchxng/issues)**
 
@@ -30,7 +30,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mui,html,css,vuetify,vscode,androidstudio,eclipse,figma,tailwind,git,electron" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,golang,nestjs,dotnet,javascript,typescript,express,spring,flutter,dart,firebase,c,cpp,java,react,nextjs,nuxtjs,fastapi" />
-    <img src="https://skillicons.dev/icons?i=linux,sequelize,mongodb,ubuntu,debian,sqlite,postgresql,mysql,redis,aws,vercel,cloudflare,docker,kubernetes,kafka,rabbitmq,prometheus,grafana,nginx" />
+    <img src="https://skillicons.dev/icons?i=linux,sequelize,mongodb,ubuntu,debian,jenkins,ansible,terraform,sqlite,postgresql,mysql,redis,aws,vercel,cloudflare,docker,kubernetes,kafka,rabbitmq,prometheus,grafana,nginx" />
 </div>
 
 <!-- ********** Stats ************ -->
