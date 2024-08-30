@@ -28,9 +28,9 @@
 <!-- ******** Language & Tools ********* -->
 <h2 align="center">⚒️ Languages Frameworks and Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,androidstudio,eclipse,figma,bootstrap,tailwind,mui,vuetify,git,electron" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,androidstudio,eclipse,figma,bootstrap,tailwind,mui,vuetify,git,electron,jest" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,golang,nestjs,dotnet,javascript,typescript,express,spring,flutter,dart,firebase,c,cpp,java,react,redux,nextjs,nuxtjs,fastapi,django" />
-    <img src="https://skillicons.dev/icons?i=linux,sequelize,mongodb,ubuntu,debian,jenkins,githubactions,ansible,terraform,sqlite,postgresql,mysql,redis,aws,vercel,cloudflare,docker,kubernetes,kafka,rabbitmq,prometheus,grafana,nginx" />
+    <img src="https://skillicons.dev/icons?i=linux,sequelize,mongodb,ubuntu,debian,jenkins,githubactions,ansible,terraform,sqlite,postgresql,mysql,redis,aws,vercel,cloudflare,docker,kubernetes,kafka,rabbitmq,prometheus,grafana,elasticsearch,nginx" />
 </div>
 
 <!-- ********** Stats ************ -->
