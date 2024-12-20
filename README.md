@@ -29,7 +29,7 @@
 <h2 align="center">⚒️ Languages Frameworks and Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,androidstudio,eclipse,figma,bootstrap,tailwind,mui,vuetify,git,electron" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,golang,nestjs,dotnet,javascript,typescript,express,spring,flutter,dart,firebase,c,cpp,java,react,redux,nextjs,vue,nuxtjs,fastapi,django,solidity" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,golang,nestjs,dotnet,javascript,typescript,express,spring,rust,flutter,dart,kotlin,swift,firebase,c,cpp,java,react,redux,nextjs,vue,nuxtjs,fastapi,django,solidity" />
     <img src="https://skillicons.dev/icons?i=linux,sequelize,mongodb,ubuntu,debian,jenkins,githubactions,ansible,terraform,sqlite,postgresql,mysql,redis,aws,vercel,cloudflare,docker,kubernetes,kafka,rabbitmq,prometheus,grafana,elasticsearch,nginx" />
 </div>
 
